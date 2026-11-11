@@ -11,10 +11,10 @@ BankAccount::BankAccount(const std::string& owner, double balance)
 {
 }
 
-// TODO: define deposit, withdraw, get_owner, get_balance, print, and
-//       adjust_balance, following the pattern above.
+// TODO: define deposit, withdraw, get_owner, get_balance, and print,
+//       following the pattern above.
 //
 // Reminders:
 //   - Definitions of const member functions repeat the const.
-//   - Do NOT repeat the words public / protected / private in this file;
-//     the header already decided who may call what.
+//   - Do not repeat the words public or private in this file.
+//     The header already decided who may call what.
